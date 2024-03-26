@@ -2,6 +2,12 @@
 "type": "FeatureCollection",
 "name": "pik05140_geo2",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+ "style": {
+        "__comment": "all SVG styles allowed",
+        "fill":"red",
+        "stroke-width":"3",
+        "fill-opacity":0.6
+    },
 "features": [
 { "type": "Feature", "properties": { "x1": 347924.2, "y1": 2842623.61, "x2": 347966.19, "y2": 2842666.73, "OID_": 382081, "div": "DD", "zona": "12", "x1_1": 347924.2, "y1_1": 2842623.61, "x2_1": 347966.19, "y2_1": 2842666.73, "unico": 1093273, "identifica": "PIK", "descripcio": "A33TS26ALSNSD", "fases_con": "111", "circuito": "PIK05140", "idcadpad": "0074", "ubica": "I", "dirx": 0.0, "diry": 0.0, "orden_fase": "CBA", "loc": null, "long": 60.21, "fibra": "0", "fec_act": "2015\/12\/17", "observacio": null, "acometida": "0", "fec_ins": "2015\/09\/28", "troncal": "1", "anio": 0, "noobra": 0, "idobra": 0, "tipoob": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -100.515556392211053, 25.693588810763615 ], [ -100.515142971446636, 25.693982405466198 ] ] ] } },
 { "type": "Feature", "properties": { "x1": 347966.19, "y1": 2842666.73, "x2": 347947.31, "y2": 2842672.97, "OID_": 382082, "div": "DD", "zona": "12", "x1_1": 347966.19, "y1_1": 2842666.73, "x2_1": 347947.31, "y2_1": 2842672.97, "unico": 1093274, "identifica": "PIK", "descripcio": "A33TS26ALSNSD", "fases_con": "111", "circuito": "PIK05140", "idcadpad": "0074", "ubica": "I", "dirx": 0.0, "diry": 0.0, "orden_fase": "BCA", "loc": null, "long": 19.88, "fibra": "0", "fec_act": "2015\/09\/28", "observacio": null, "acometida": "0", "fec_ins": "2015\/09\/28", "troncal": "1", "anio": 0, "noobra": 0, "idobra": 0, "tipoob": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -100.515142971446636, 25.693982405466198 ], [ -100.515331787040537, 25.694036779755823 ] ] ] } },
